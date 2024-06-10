@@ -41,3 +41,10 @@ button:hover{
     background-color: darksalmon;
     
 }
+.result{
+    border: solid;
+    margin: 10px 150px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 500;
+}
